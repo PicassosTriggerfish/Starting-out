@@ -6,4 +6,4 @@
 
 # editiing from online git 
 
-## Always pull first, otherwise it may not allow you to push 
+## Always pull first, otherwise it may not allow you to push -> expecially if you have a collaborator 
