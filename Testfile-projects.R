@@ -5,3 +5,5 @@
 ## can't see all comments?
 
 # editiing from online git 
+
+## Always pull first, otherwise it may not allow you to push 
